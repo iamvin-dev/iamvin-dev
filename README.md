@@ -4,8 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="iamvin-dev" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://iamvin.dev/projects](https://iamvin.dev/projects)
+👨‍💻 All of my projects are available at [https://iamvin.dev/projects](https://iamvin.dev/projects)
 
+<a href="https://www.digitalocean.com/?refcode=c7e7164015e7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 <p align="left">
 </p>
