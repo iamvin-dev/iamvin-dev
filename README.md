@@ -1,7 +1,7 @@
 # 💫About Me :
 🚀 My name is Vin and I'm from germany.
 
-👨‍💻 All of my projects are available at [https://iamvin.dev/projects](https://iamvin.dev/projects)
+👨‍💻 All of my projects are available at [https://iamvin.dev/](https://iamvin.dev)
 
 <a href="https://www.digitalocean.com/?refcode=c7e7164015e7&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
